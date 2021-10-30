@@ -1,0 +1,16 @@
+C:\Users\Tincho.DESKTOP-D357Q8G\Desktop\Tincho\Drive\UTN\4to año\Taller de Programacion\Colecciones y Excepciones\TP4\TP4\EJ2\bin\Debug\net5.0\EJ2.exe
+C:\Users\Tincho.DESKTOP-D357Q8G\Desktop\Tincho\Drive\UTN\4to año\Taller de Programacion\Colecciones y Excepciones\TP4\TP4\EJ2\bin\Debug\net5.0\EJ2.deps.json
+C:\Users\Tincho.DESKTOP-D357Q8G\Desktop\Tincho\Drive\UTN\4to año\Taller de Programacion\Colecciones y Excepciones\TP4\TP4\EJ2\bin\Debug\net5.0\EJ2.runtimeconfig.json
+C:\Users\Tincho.DESKTOP-D357Q8G\Desktop\Tincho\Drive\UTN\4to año\Taller de Programacion\Colecciones y Excepciones\TP4\TP4\EJ2\bin\Debug\net5.0\EJ2.runtimeconfig.dev.json
+C:\Users\Tincho.DESKTOP-D357Q8G\Desktop\Tincho\Drive\UTN\4to año\Taller de Programacion\Colecciones y Excepciones\TP4\TP4\EJ2\bin\Debug\net5.0\EJ2.dll
+C:\Users\Tincho.DESKTOP-D357Q8G\Desktop\Tincho\Drive\UTN\4to año\Taller de Programacion\Colecciones y Excepciones\TP4\TP4\EJ2\bin\Debug\net5.0\ref\EJ2.dll
+C:\Users\Tincho.DESKTOP-D357Q8G\Desktop\Tincho\Drive\UTN\4to año\Taller de Programacion\Colecciones y Excepciones\TP4\TP4\EJ2\bin\Debug\net5.0\EJ2.pdb
+C:\Users\Tincho.DESKTOP-D357Q8G\Desktop\Tincho\Drive\UTN\4to año\Taller de Programacion\Colecciones y Excepciones\TP4\TP4\EJ2\obj\Debug\net5.0\EJ2.csproj.AssemblyReference.cache
+C:\Users\Tincho.DESKTOP-D357Q8G\Desktop\Tincho\Drive\UTN\4to año\Taller de Programacion\Colecciones y Excepciones\TP4\TP4\EJ2\obj\Debug\net5.0\EJ2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tincho.DESKTOP-D357Q8G\Desktop\Tincho\Drive\UTN\4to año\Taller de Programacion\Colecciones y Excepciones\TP4\TP4\EJ2\obj\Debug\net5.0\EJ2.AssemblyInfoInputs.cache
+C:\Users\Tincho.DESKTOP-D357Q8G\Desktop\Tincho\Drive\UTN\4to año\Taller de Programacion\Colecciones y Excepciones\TP4\TP4\EJ2\obj\Debug\net5.0\EJ2.AssemblyInfo.cs
+C:\Users\Tincho.DESKTOP-D357Q8G\Desktop\Tincho\Drive\UTN\4to año\Taller de Programacion\Colecciones y Excepciones\TP4\TP4\EJ2\obj\Debug\net5.0\EJ2.csproj.CoreCompileInputs.cache
+C:\Users\Tincho.DESKTOP-D357Q8G\Desktop\Tincho\Drive\UTN\4to año\Taller de Programacion\Colecciones y Excepciones\TP4\TP4\EJ2\obj\Debug\net5.0\EJ2.dll
+C:\Users\Tincho.DESKTOP-D357Q8G\Desktop\Tincho\Drive\UTN\4to año\Taller de Programacion\Colecciones y Excepciones\TP4\TP4\EJ2\obj\Debug\net5.0\ref\EJ2.dll
+C:\Users\Tincho.DESKTOP-D357Q8G\Desktop\Tincho\Drive\UTN\4to año\Taller de Programacion\Colecciones y Excepciones\TP4\TP4\EJ2\obj\Debug\net5.0\EJ2.pdb
+C:\Users\Tincho.DESKTOP-D357Q8G\Desktop\Tincho\Drive\UTN\4to año\Taller de Programacion\Colecciones y Excepciones\TP4\TP4\EJ2\obj\Debug\net5.0\EJ2.genruntimeconfig.cache
